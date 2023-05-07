@@ -17,4 +17,4 @@ Licensed for personal and business use.
 The owner's consent is required to use the code for own projects!
 
 # Credits
-★ Install Package Files (@pkgFiles) - © 2023 Alle Rights Reserved. ([Twitter](https://twitter.com/pkgFiles))
+★ Install Package Files (@pkgFiles) - © 2023 All Rights Reserved. ([Twitter](https://twitter.com/pkgFiles))
